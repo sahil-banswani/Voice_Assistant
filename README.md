@@ -18,6 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # Here is a Demo.
 
 
-https://github.com/sahil-banswani/Voice_Assistant/assets/114501933/c399c18a-8ba3-49ec-b5bd-1a5bfae317e7
-
 
